@@ -1,16 +1,100 @@
-### Hi there 👋
 
-<!--
-**Jysusog/jysusog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" width="300">
+   <img align="center" width="200" src="https://i.postimg.cc/dts5kwKC/Foto.jpg" style="border-radius: 50%;" />
+   <h3 align="center">¡Hey 👋! Soy Jysus Martinez 👨🏻‍💻</h3>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">Soy <strong>Desarrollador Web Fron-End.</strong> con 1 de experiencia.<br />¡Revisa mi contenido 👇!</p>
+<p align="center">
+   <a href="https://www.facebook.com/profile.php?id=100065162265294" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="JysusOg" height="35px" width="35px" />
+  </a>
+  <a href="https://www.instagram.com/jysus_og/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="35px" width="35px" />
+  </a>
+  <a href="https://twitter.com/Jesus46231396" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="35px" width="35px" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="left">
+  <h4>Let's connect~</h4>
+  <a  href="https://www.linkedin.com/in/timothy-tinashe-murambinda" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/tinamura2" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=plastic&logo=twitter&logoColor=white&alt=twitter" />
+  </a>
+  <a href="mailto:tinashemurambinda@gmail.com">
+    <img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" />
+  <a/>
+  <br>
+</div>
+
+
+<h4 align="left"> 
+  Profile views ~ <br><br>
+  <img src="https://profile-counter.glitch.me/Draxeytina/count.svg" />
+</h4>
+
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+<h4 align="left">Tech-stack~</h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typeScript-007ACC?style=plastic&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/angular-DD0031?style=plastic&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/sass-hotpink.svg?style=plastic&logo=SASS&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=plastic&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?&style=plastic&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/unsplash-000000?style=plastic&logo=Unsplash&logoColor=white" />
+  <img src="https://img.shields.io/badge/netlify-00C7B7?style=plastic&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/heroku-430098?style=plastic&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-000000?style=plastic&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-%23000000.svg?style=plastic&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=plastic&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/-mocha-%238D6748?style=plastic&logo=mocha&logoColor=white" />
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white" />
+  <br>
+</div>
+  
+<br>
+<br>
+  
+<table align="center">
+  <tr>
+   
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=Draxeytina&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Draxeytina" />
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Draxeytina&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Draxeytina" />
+    </td>
+  </tr>
+</table>
+  
+<div align="center">
+ <a href="https://commits.top/zimbabwe_public.html"><p>Rated #4 top GitHub contributors nationally</p></a>
+ <img src="https://user-images.githubusercontent.com/59999191/204917455-d54abeaa-137f-4aec-ad89-1efaaafc5992.png" alt="Contribution ranking" />
+</div>
+<br>
+<!-- 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Draxeytina&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+ 
+<div  align="center">
+  <small>Thank you for visiting, keep checking for updates.</small>
+</div>
