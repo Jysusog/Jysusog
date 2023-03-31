@@ -12,6 +12,9 @@
   <a href="https://www.instagram.com/jysus_og/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="35px" width="35px" />
   </a>
+   <a href="https://www.linkedin.com/in/jesus-martinez-lopez/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="midu.dev" height="35px" width="35px" />
+  </a>
   <a href="https://twitter.com/Jesus46231396" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="35px" width="35px" />
   </a>
