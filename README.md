@@ -6,16 +6,16 @@
 
 <p align="center">Soy <strong>Desarrollador Web Fron-End.</strong> con 1 de experiencia.<br /><strong>¡Revisa Mis Redes Sociales 👇!</strong></p>
 <p align="center">
-   <a href="https://www.facebook.com/profile.php?id=100065162265294" target="blank" style='margin-right:4px'>
+   <a href="https://www.facebook.com/profile.php?id=100065162265294" target="_blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="JysusOg" height="35px" width="35px" />
   </a>
-  <a href="https://www.instagram.com/jysus_og/" target="blank">
+  <a href="https://www.instagram.com/jysus_og/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="35px" width="35px" />
   </a>
-   <a href="https://www.linkedin.com/in/jesus-martinez-lopez/" target="blank">
+   <a href="https://www.linkedin.com/in/jesus-martinez-lopez/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="midu.dev" height="35px" width="35px" />
   </a>
-  <a href="https://twitter.com/Jesus46231396" target="blank">
+  <a href="https://twitter.com/Jesus46231396" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="35px" width="35px" />
   </a>
 </p>
