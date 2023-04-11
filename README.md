@@ -1,11 +1,9 @@
 <p align="center">
-<a href="https://github.com/Jysusog"><img src="https://readme-typing-svg.demolab.com?font=Chivo+Mono&weight=600&size=22&duration=3000&pause=2000&color=F7F7F7&background=24232300&center=true&vCenter=true&width=430&height=30&lines=%C2%A1+Hola+%F0%9F%91%8B+!+Soy+Jysus+Martinez;Soy+Desarrollador+Web+Front-End;Soy+Dise%C3%B1ador+Web;%C2%A1Revisa+Mis+Proyectos+%F0%9F%91%87!" alt="Typing SVG" /></a>
-</p>
-<p align="center">
-   
    <h3 align="center">¡Hey 👋! Soy Jysus Martinez 👨🏻‍💻</h3>
 </p>
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo+Mono&weight=600&size=22&duration=3000&pause=2000&color=F7F7F7&background=24232300&center=true&vCenter=true&width=430&height=30&lines=Soy+Desarrollador+Web+Front-End;Soy+Dise%C3%B1ador+Web;Soy+Estudiante+Del+Programa+ONE" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">Soy <strong>Desarrollador Web Fron-End.</strong> con 1 de experiencia.<br /><strong>¡Revisa Mis Redes Sociales 👇!</strong></p>
 
