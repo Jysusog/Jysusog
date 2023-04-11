@@ -25,8 +25,8 @@
 
 - ⚡ Me gusta aprender cada dia sobre **Tecnologia**
 
-<h3 align="center">Contactame</h3>
-<p align="center">
+<h3 align="left">Contactame</h3>
+<p align="left">
 <a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jesus-martinez-lopez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jysus og" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jysus.desing/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jysus og" height="30" width="40" /></a>
