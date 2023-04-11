@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jysusog&label=Profile%20views&color=0e75b6&style=flat" alt="jysusog" /> </p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo+Mono&weight=600&size=22&duration=3000&pause=2000&color=F7F7F7&background=24232300&center=true&vCenter=true&width=430&height=30&lines=Soy+Desarrollador+Web+Front-End;Soy+Dise%C3%B1ador+Web;Soy+Estudiante+Del+Programa+ONE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=40&duration=3000&pause=1500&color=F7F7F7&center=true&vCenter=true&width=650&height=60&lines=Soy+Desarrollador+Web+Front+-+End;Soy+Dise%C3%B1ador+Web;Soy+Estudiante+Del+Programa+ONE" alt="Typing SVG" /></a>
 </p>
 
 
