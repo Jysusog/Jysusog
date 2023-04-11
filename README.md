@@ -25,8 +25,8 @@
 
 - ⚡ Me gusta aprender cada dia sobre **Tecnologia**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Contactame</h3>
+<p align="center">
 <a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
@@ -40,24 +40,20 @@
 
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
-<h4 align="left">Habilidades.</h4>
+<h2 align="center">Habilidades.</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" />
-  
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" />
-  
-  <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/sass-hotpink.svg?style=plastic&logo=SASS&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=plastic&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?&style=plastic&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/netlify-00C7B7?style=plastic&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-%23000000.svg?style=plastic&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white" />
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" height="40" width="40" />
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" height="40" width="40"/>
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg" height="40" width="40"/>
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" height="40" width="40" />
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/sass.svg" height="40" width="40"/>
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/bootstrap.svg" height="40" width="40" />
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" height="40" width="40"/>
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Software/figma.svg" height="40" width="40"/>
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/git.svg" height="40" width="40"/>
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" height="40" width="40"/>
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BaaS/firebase.svg" height="40" width="40"/>
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" height="40" width="40"/>
 </div>
   
 <br>
