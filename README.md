@@ -1,9 +1,11 @@
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=29&duration=3000&pause=2000&color=36BCF79F&center=true&vCenter=true&width=430&height=30&lines=Hola+Soy+Jysus+Martinez;Desarrollador+Web+Front-End;Dise%C3%B1ador+Web;Visita+Mis+Proyectos" alt="Typing SVG" /></a>
+</p>
 <p align="center">
    
    <h3 align="center">¡Hey 👋! Soy Jysus Martinez 👨🏻‍💻</h3>
-   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
 </p>
+
 
 <p align="center">Soy <strong>Desarrollador Web Fron-End.</strong> con 1 de experiencia.<br /><strong>¡Revisa Mis Redes Sociales 👇!</strong></p>
 
