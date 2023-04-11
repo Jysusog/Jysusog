@@ -6,13 +6,7 @@
 
 <p align="center">Soy <strong>Desarrollador Web .</strong> con 1 de experiencia.<br /><strong>¡Revisa Mis Redes Sociales 👇!</strong></p>
 
-   
- <p align="center">
-  <a href="https://www.instagram.com/jysus.desing/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jesusavg2317@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jesus-martinez-lopez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    </p>
-</p>
+ 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://www.instagram.com/jysus.desing/" target="blank"><img src="https://img.shields.io/twitter/follow/jysus.desing?logo=instagram&style=for-the-badge" alt="Jysus og" /></a> </p>
