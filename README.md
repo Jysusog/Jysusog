@@ -1,7 +1,8 @@
 
-<p align="center" width="300">
+<p align="center">
    
    <h3 align="center">¡Hey 👋! Soy Jysus Martinez 👨🏻‍💻</h3>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
 </p>
 
 <p align="center">Soy <strong>Desarrollador Web Fron-End.</strong> con 1 de experiencia.<br /><strong>¡Revisa Mis Redes Sociales 👇!</strong></p>
