@@ -4,7 +4,7 @@
 </p>
 
 
-<p align="center">Soy <strong>Desarrollador Web .</strong> con 1 de experiencia.<br /><strong>¡Revisa Mis Redes Sociales 👇!</strong></p>
+<p align="center">Soy <strong>Desarrollador Web .</strong> con 1 año de experiencia.<br /><strong>¡Revisa Mis Redes Sociales 👇!</strong></p>
 
  
 
